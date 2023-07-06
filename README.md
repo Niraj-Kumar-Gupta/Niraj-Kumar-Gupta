@@ -64,3 +64,12 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p> -->
+
+### Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Kumar-Gupta&theme=tokyonight&count_private=true)
+![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=Niraj-Kumar-Gupta&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)<br>
+<a href="https://github.com/Niraj-Kumar-Gupta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Kumar-Gupta&layout=compact&theme=buefy&hide_border=true" /></a>
+<!--
+![Niraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Niraj-Kumar-Gupta&layout=compact)
+-->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Niraj-Kumar-Gupta&theme=github&count_private=true)
